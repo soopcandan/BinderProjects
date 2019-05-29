@@ -10,7 +10,5 @@ dependencies:
   - pandas
   - partd
   - bokeh
-  - re
   - dask
   - ipywidgets
-  - urllib3
