@@ -1,3 +1,3 @@
-# CondaProjects
+# Binder CondaProject
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soopcandan/CondaProjects/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soopcandan/CondaProject/master)
